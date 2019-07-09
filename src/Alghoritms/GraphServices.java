@@ -3,9 +3,12 @@ package Alghoritms;
 import java.util.Random;
 import baseGraphClass.*;
 
+// Gruppo di aloritmi riguardanti l'esercizio 2 di programmazione di alforitmi.
+
 public class GraphServices {
 
 	/*
+	 * 2.1 08/01/2019
  	 * Dato un grafo g, rappresentato mediante matrice di adiacenze, ritornare il grafo g'
  	 * che e' uguale a g, ma e' rappresentato mediante lista di incidenze.
  	 * 
@@ -27,6 +30,7 @@ public class GraphServices {
 	}
 
 	/*
+	 * 2.2 08/01/2019
 	 * Dato un grafo in input, la funziona ritorna 1 se il grafo e' fortemente connesso, 0 altrimenti.
 	 * 
 	 * Realizzare una funzione/metodo is_strongly_connected che, dato un grafo diretto semplice G, stabilisce
@@ -38,6 +42,7 @@ public class GraphServices {
 	}
 
 	/*
+	 * 2.3 08/01/2019
  	 * Dato un grafo g, ritornare 1 se il grafo e' uguale alla sua chiusura transitiva, 0 altrimenti. 
  	 * 
  	 * Realizzare una funzione/metodo is_closed che, dato un grafo diretto semplice G, stabilisce se G è uguale
