@@ -1,4 +1,4 @@
-package baseClass;
+package baseGraphClass;
 
 import java.util.Iterator;
 import java.util.LinkedList;

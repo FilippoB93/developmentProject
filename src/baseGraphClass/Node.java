@@ -1,8 +1,8 @@
-package baseClass;
+package baseGraphClass;
 
 import java.util.List;
 
-class Node{
+public class Node{
 	int key;
 	String label;
 	int tag = Graph.UNEXPLORED;
