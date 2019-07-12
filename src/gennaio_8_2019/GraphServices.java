@@ -1,7 +1,6 @@
-package Alghoritms;
+package gennaio_8_2019;
 
 import java.util.Random;
-import baseGraphClass.*;
 
 // Gruppo di aloritmi riguardanti l'esercizio 2 di programmazione di alforitmi.
 

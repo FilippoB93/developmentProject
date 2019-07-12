@@ -1,6 +1,5 @@
-package Alghoritms;
+package gennaio_8_2019;
 
-import baseGraphClass.*;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;

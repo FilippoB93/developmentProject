@@ -1,6 +1,4 @@
-package baseGraphClass;
-
-
+package gennaio_8_2019;
 
 public class Edge{
 	int key;
